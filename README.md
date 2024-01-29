@@ -4,4 +4,4 @@
 
 ![github-contribution-grid-snake](https://github.com/UdalovDA/UdalovDA/assets/144095529/68d7470c-8cef-4a75-920f-6dea2238dbed)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
