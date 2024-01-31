@@ -1,3 +1,4 @@
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjFnb3ZiNWQyOW92d2gyOWY0MGVid3g5YjNianJ5cmkyZWFtam04ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4FGnmGm7hyAFa9FK/giphy.gif)https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjFnb3ZiNWQyOW92d2gyOWY0MGVid3g5YjNianJ5cmkyZWFtam04ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4FGnmGm7hyAFa9FK/giphy.gif" width="100"/>
+  <img src="![giphy](https://github.com/UdalovDA/UdalovDA/assets/144095529/b684a031-f653-4b3e-a566-582b59b2f254)
+" width="100"/>
 </div>
