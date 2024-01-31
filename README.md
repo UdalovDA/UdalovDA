@@ -21,4 +21,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
-![5ffbcb03abb1ccfaa54a6c2055e0fe58](https://github.com/UdalovDA/UdalovDA/assets/144095529/19679009-dcb2-45ab-961b-fbd0a8dfbf8a)
