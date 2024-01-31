@@ -1,3 +1,5 @@
+
+![giphy](https://github.com/UdalovDA/UdalovDA/assets/144095529/b49602b2-1ec1-419c-88c9-d914139cd62c)
 <div id="badges">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
